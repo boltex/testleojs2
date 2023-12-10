@@ -6,7 +6,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="felix.20231205213238.1"><vh>@clean test1.txt</vh>
+<v t="felix.20231205213238.1"><vh>clean test1.txt</vh>
 <v t="felix.20231205213318.1"><vh>&lt;&lt; sec ref &gt;&gt;</vh></v>
 <v t="felix.20231205214755.1"><vh>&lt;&lt; sec ref2 &gt;&gt;</vh></v>
 <v t="felix.20231205213301.1"><vh>first node</vh></v>
