@@ -19,7 +19,7 @@
 <tnodes>
 <t tx="felix.20231205213238.1">&lt;&lt; sec ref &gt;&gt;
 
-below sec ref ss ss
+below sec ref ss sssss
 
 &lt;&lt; sec ref2 &gt;&gt;
 
@@ -37,7 +37,8 @@ second node content line 2
 </t>
 <t tx="felix.20231205213318.1">sec ref content line1
 sec ref content line2
-content of ref changed</t>
+content of ref changed outside
+</t>
 <t tx="felix.20231205214755.1">sec ref2 content line1
 sec ref2 content line2
 </t>
