@@ -1,5 +1,6 @@
 sec ref content line1
 sec ref content line2
+content of ref changed
 
 below sec ref ss ss
 
